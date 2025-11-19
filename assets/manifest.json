@@ -1,0 +1,683 @@
+{
+  "images": [
+    {
+      "key": "carry_idle_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Down-Sheet.png"
+    },
+    {
+      "key": "carry_idle_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Side-Sheet.png"
+    },
+    {
+      "key": "carry_idle_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Idle/Carry_Idle_Up-Sheet.png"
+    },
+    {
+      "key": "carry_run_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Down-Sheet.png"
+    },
+    {
+      "key": "carry_run_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Side-Sheet.png"
+    },
+    {
+      "key": "carry_run_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Run/Carry_Run_Up-Sheet.png"
+    },
+    {
+      "key": "carry_walk_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Down-Sheet.png"
+    },
+    {
+      "key": "carry_walk_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Side-Sheet.png"
+    },
+    {
+      "key": "carry_walk_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Carry_Walk/Carry_Walk_Up-Sheet.png"
+    },
+    {
+      "key": "collect_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Down-Sheet.png"
+    },
+    {
+      "key": "collect_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Side-Sheet.png"
+    },
+    {
+      "key": "collect_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Collect_Base/Collect_Up-Sheet.png"
+    },
+    {
+      "key": "crush_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Down-Sheet.png"
+    },
+    {
+      "key": "crush_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Side-Sheet.png"
+    },
+    {
+      "key": "crush_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Crush_Base/Crush_Up-Sheet.png"
+    },
+    {
+      "key": "death_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Down-Sheet.png"
+    },
+    {
+      "key": "death_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Side-Sheet.png"
+    },
+    {
+      "key": "death_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Death_Base/Death_Up-Sheet.png"
+    },
+    {
+      "key": "fishing_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Down-Sheet.png"
+    },
+    {
+      "key": "fishing_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Side-Sheet.png"
+    },
+    {
+      "key": "fishing_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Fishing_Base/Fishing_Up-Sheet.png"
+    },
+    {
+      "key": "hit_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Down-Sheet.png"
+    },
+    {
+      "key": "hit_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Side-Sheet.png"
+    },
+    {
+      "key": "hit_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Hit_Base/Hit_Up-Sheet.png"
+    },
+    {
+      "key": "idle_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Down-Sheet.png"
+    },
+    {
+      "key": "idle_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Side-Sheet.png"
+    },
+    {
+      "key": "idle_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Idle_Base/Idle_Up-Sheet.png"
+    },
+    {
+      "key": "pierce_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Down-Sheet.png"
+    },
+    {
+      "key": "pierce_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Side-Sheet.png"
+    },
+    {
+      "key": "pierce_top-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Pierce_Base/Pierce_Top-Sheet.png"
+    },
+    {
+      "key": "run_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Down-Sheet.png"
+    },
+    {
+      "key": "run_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Side-Sheet.png"
+    },
+    {
+      "key": "run_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Run_Base/Run_Up-Sheet.png"
+    },
+    {
+      "key": "slice_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Down-Sheet.png"
+    },
+    {
+      "key": "slice_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Side-Sheet.png"
+    },
+    {
+      "key": "slice_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Slice_Base/Slice_Up-Sheet.png"
+    },
+    {
+      "key": "walk_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Down-Sheet.png"
+    },
+    {
+      "key": "walk_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Side-Sheet.png"
+    },
+    {
+      "key": "walk_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Walk_Base/Walk_Up-Sheet.png"
+    },
+    {
+      "key": "watering_down-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Down-Sheet.png"
+    },
+    {
+      "key": "watering_side-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Side-Sheet.png"
+    },
+    {
+      "key": "watering_up-sheet",
+      "path": "assets/Entities/Characters/Body_A/Animations/Watering_Base/Watering_Up-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Rogue/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Rogue/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Rogue/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Shaman/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Shaman/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Shaman/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Warrior/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Warrior/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Orc Crew/Orc - Warrior/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Base/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Base/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Base/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Mage/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Mage/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Mage/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Rogue/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Rogue/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Rogue/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Warrior/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Warrior/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Mobs/Skeleton Crew/Skeleton - Warrior/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Npc's/Knight/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Npc's/Knight/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Npc's/Knight/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Npc's/Rogue/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Npc's/Rogue/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Npc's/Rogue/Run/Run-Sheet.png"
+    },
+    {
+      "key": "death-sheet",
+      "path": "assets/Entities/Npc's/Wizzard/Death/Death-Sheet.png"
+    },
+    {
+      "key": "idle-sheet",
+      "path": "assets/Entities/Npc's/Wizzard/Idle/Idle-Sheet.png"
+    },
+    {
+      "key": "run-sheet",
+      "path": "assets/Entities/Npc's/Wizzard/Run/Run-Sheet.png"
+    },
+    {
+      "key": "pan_01-sheet",
+      "path": "assets/Environment/Props/Animated/Pan_01-Sheet.png"
+    },
+    {
+      "key": "pan_02-sheet",
+      "path": "assets/Environment/Props/Animated/Pan_02-Sheet.png"
+    },
+    {
+      "key": "pan_03-sheet",
+      "path": "assets/Environment/Props/Animated/Pan_03-Sheet.png"
+    },
+    {
+      "key": "pan_04-sheet",
+      "path": "assets/Environment/Props/Animated/Pan_04-Sheet.png"
+    },
+    {
+      "key": "pan_05-sheet",
+      "path": "assets/Environment/Props/Animated/Pan_05-Sheet.png"
+    },
+    {
+      "key": "dungeon_props",
+      "path": "assets/Environment/Props/Static/Dungeon_Props.png"
+    },
+    {
+      "key": "esoteric",
+      "path": "assets/Environment/Props/Static/Esoteric.png"
+    },
+    {
+      "key": "farm",
+      "path": "assets/Environment/Props/Static/Farm.png"
+    },
+    {
+      "key": "furniture",
+      "path": "assets/Environment/Props/Static/Furniture.png"
+    },
+    {
+      "key": "meat",
+      "path": "assets/Environment/Props/Static/Meat.png"
+    },
+    {
+      "key": "pan",
+      "path": "assets/Environment/Props/Static/Pan.png"
+    },
+    {
+      "key": "resources",
+      "path": "assets/Environment/Props/Static/Resources.png"
+    },
+    {
+      "key": "rocks",
+      "path": "assets/Environment/Props/Static/Rocks.png"
+    },
+    {
+      "key": "shadows",
+      "path": "assets/Environment/Props/Static/Shadows.png"
+    },
+    {
+      "key": "tools",
+      "path": "assets/Environment/Props/Static/Tools.png"
+    },
+    {
+      "key": "vegetation",
+      "path": "assets/Environment/Props/Static/Vegetation.png"
+    },
+    {
+      "key": "size_02",
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_02.png"
+    },
+    {
+      "key": "size_03",
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_03.png"
+    },
+    {
+      "key": "size_04",
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_04.png"
+    },
+    {
+      "key": "size_05",
+      "path": "assets/Environment/Props/Static/Trees/Model_01/Size_05.png"
+    },
+    {
+      "key": "size_02",
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_02.png"
+    },
+    {
+      "key": "size_03",
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_03.png"
+    },
+    {
+      "key": "size_04",
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_04.png"
+    },
+    {
+      "key": "size_05",
+      "path": "assets/Environment/Props/Static/Trees/Model_02/Size_05.png"
+    },
+    {
+      "key": "size_02",
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_02.png"
+    },
+    {
+      "key": "size_03-export",
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_03-export.png"
+    },
+    {
+      "key": "size_03",
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_03.png"
+    },
+    {
+      "key": "size_04-export-export",
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_04-export-export.png"
+    },
+    {
+      "key": "size_04-export",
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_04-export.png"
+    },
+    {
+      "key": "size_04",
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_04.png"
+    },
+    {
+      "key": "size_05",
+      "path": "assets/Environment/Props/Static/Trees/Model_03/Size_05.png"
+    },
+    {
+      "key": "floors",
+      "path": "assets/Environment/Structures/Buildings/Floors.png"
+    },
+    {
+      "key": "props",
+      "path": "assets/Environment/Structures/Buildings/Props.png"
+    },
+    {
+      "key": "roofs",
+      "path": "assets/Environment/Structures/Buildings/Roofs.png"
+    },
+    {
+      "key": "shadows",
+      "path": "assets/Environment/Structures/Buildings/Shadows.png"
+    },
+    {
+      "key": "walls",
+      "path": "assets/Environment/Structures/Buildings/Walls.png"
+    },
+    {
+      "key": "alchemy_table_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Alchemy/Alchemy_Table_01-Sheet.png"
+    },
+    {
+      "key": "alchemy_table_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Alchemy/Alchemy_Table_02-Sheet.png"
+    },
+    {
+      "key": "alchemy_table_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Alchemy/Alchemy_Table_03-Sheet.png"
+    },
+    {
+      "key": "anvil",
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil.png"
+    },
+    {
+      "key": "anvil_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil_01-Sheet.png"
+    },
+    {
+      "key": "anvil_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil_02-Sheet.png"
+    },
+    {
+      "key": "anvil_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Anvil/Anvil_03-Sheet.png"
+    },
+    {
+      "key": "bonfire",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire.png"
+    },
+    {
+      "key": "bonfire_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_01-Sheet.png"
+    },
+    {
+      "key": "bonfire_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_02-Sheet.png"
+    },
+    {
+      "key": "bonfire_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_03-Sheet.png"
+    },
+    {
+      "key": "bonfire_04-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_04-Sheet.png"
+    },
+    {
+      "key": "bonfire_05-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_05-Sheet.png"
+    },
+    {
+      "key": "bonfire_06-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_06-Sheet.png"
+    },
+    {
+      "key": "bonfire_07-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_07-Sheet.png"
+    },
+    {
+      "key": "bonfire_08-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_08-Sheet.png"
+    },
+    {
+      "key": "bonfire_09-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_09-Sheet.png"
+    },
+    {
+      "key": "bonfire_10-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Bonfire_10-Sheet.png"
+    },
+    {
+      "key": "fire_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Fire_01-Sheet.png"
+    },
+    {
+      "key": "fire_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Fire_02-Sheet.png"
+    },
+    {
+      "key": "smoke-sheet",
+      "path": "assets/Environment/Structures/Stations/Bonfire/Smoke-Sheet.png"
+    },
+    {
+      "key": "cooking station",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooking Station.png"
+    },
+    {
+      "key": "estructure",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Estructure.png"
+    },
+    {
+      "key": "butchery_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_01-Sheet.png"
+    },
+    {
+      "key": "butchery_02",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_02.png"
+    },
+    {
+      "key": "butchery_03",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_03.png"
+    },
+    {
+      "key": "butchery_04",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Butchery/Butchery_04.png"
+    },
+    {
+      "key": "cooker_01",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_01.png"
+    },
+    {
+      "key": "cooker_02",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_02.png"
+    },
+    {
+      "key": "cooker_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_03-Sheet.png"
+    },
+    {
+      "key": "cooker_04-sheet",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Cooker/Cooker_04-Sheet.png"
+    },
+    {
+      "key": "grill_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_01-Sheet.png"
+    },
+    {
+      "key": "grill_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_02-Sheet.png"
+    },
+    {
+      "key": "grill_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_03-Sheet.png"
+    },
+    {
+      "key": "grill_04-sheet",
+      "path": "assets/Environment/Structures/Stations/Cooking Station/Grill/Grill_04-Sheet.png"
+    },
+    {
+      "key": "bricks_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Bricks_01-Sheet.png"
+    },
+    {
+      "key": "bricks_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Bricks_02-Sheet.png"
+    },
+    {
+      "key": "bricks_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Bricks_03-Sheet.png"
+    },
+    {
+      "key": "furnace",
+      "path": "assets/Environment/Structures/Stations/Furnace/Furnace.png"
+    },
+    {
+      "key": "iron_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Iron_01-Sheet.png"
+    },
+    {
+      "key": "iron_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Iron_02-Sheet.png"
+    },
+    {
+      "key": "iron_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Iron_03-Sheet.png"
+    },
+    {
+      "key": "stone_01-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Stone_01-Sheet.png"
+    },
+    {
+      "key": "stone_02-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Stone_02-Sheet.png"
+    },
+    {
+      "key": "stone_03-sheet",
+      "path": "assets/Environment/Structures/Stations/Furnace/Stone_03-Sheet.png"
+    },
+    {
+      "key": "base",
+      "path": "assets/Environment/Structures/Stations/Sawmill/Base.png"
+    },
+    {
+      "key": "level_1",
+      "path": "assets/Environment/Structures/Stations/Sawmill/Level_1.png"
+    },
+    {
+      "key": "level_2-sheet",
+      "path": "assets/Environment/Structures/Stations/Sawmill/Level_2-Sheet.png"
+    },
+    {
+      "key": "level_3-sheet",
+      "path": "assets/Environment/Structures/Stations/Sawmill/Level_3-Sheet.png"
+    },
+    {
+      "key": "workbench",
+      "path": "assets/Environment/Structures/Stations/Workbench/Workbench.png"
+    },
+    {
+      "key": "dungeon_tiles",
+      "path": "assets/Environment/Tilesets/Dungeon_Tiles.png"
+    },
+    {
+      "key": "floors_tiles",
+      "path": "assets/Environment/Tilesets/Floors_Tiles.png"
+    },
+    {
+      "key": "wall_tiles",
+      "path": "assets/Environment/Tilesets/Wall_Tiles.png"
+    },
+    {
+      "key": "wall_variations",
+      "path": "assets/Environment/Tilesets/Wall_Variations.png"
+    },
+    {
+      "key": "water_tiles",
+      "path": "assets/Environment/Tilesets/Water_tiles.png"
+    },
+    {
+      "key": "bone",
+      "path": "assets/Weapons/Bone/Bone.png"
+    },
+    {
+      "key": "hands",
+      "path": "assets/Weapons/Hands/Hands.png"
+    },
+    {
+      "key": "wood",
+      "path": "assets/Weapons/Wood/Wood.png"
+    }
+  ],
+  "sprites": [],
+  "audio": [],
+  "pickups": []
+}
